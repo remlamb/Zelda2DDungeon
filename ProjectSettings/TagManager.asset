@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Collectible
+  - Door
+  - LimitBlockGame
+  - PushableBlock
+  - BlockGoal
+  - Arrow
+  - Wall
+  - Target
+  - Enemy
+  - Camera
+  - Laser
+  - Sword
+  - EnemySword
+  - PlayerHitbox
+  - DestroyPosition
+  - Block
+  - Assets
+  - FinalDoor
+  - Bow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - LimitBlockGame
+  - 
+  - Arrow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Assets
+    uniqueID: 3377155025
+    locked: 0
+  - name: GoalBlock
+    uniqueID: 4057699563
+    locked: 0
+  - name: Door
+    uniqueID: 2873684629
+    locked: 0
+  - name: Items
+    uniqueID: 1178873265
+    locked: 0
+  - name: Player
+    uniqueID: 1289902277
+    locked: 0
+  - name: Sword
+    uniqueID: 2809798173
+    locked: 0
+  - name: AlwaysSeen
+    uniqueID: 3436444673
+    locked: 0
